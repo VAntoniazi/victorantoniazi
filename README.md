@@ -1,9 +1,11 @@
 # vantoniazi
 
 🚀 Introduction 🚀
+
 Welcome to my profile! I'm Victor Antoniazi, a full stack developer and researcher. Here you'll find information about my background, skills, and experience. 
 
 🧑‍💼 About Me 🧑‍💼
+
 As a researcher, I worked writting, collecting and structuring the database of the research project. And as a programmer, I've been working on projects since 2018 (personal ones), and finally in 2023-24 on enterprise ones.  
 
 
