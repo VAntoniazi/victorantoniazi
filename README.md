@@ -9,18 +9,19 @@ As a researcher, I worked writting, collecting and structuring the database of t
 Provide a brief overview of who you are, your professional background, and any relevant personal information. 
 
 💻 Skills 💻
-1.  Desenvolvimento de Software
-2.  Análise de Dados
-3.  Gerenciamento de Projetos
-4.  Programação Web
-5.  Inteligência Artificial
+
+1.  Software development
+2.  Data analysis
+3.  Project management
+4.  Web Programming
+5.  Artificial intelligence
 6.  Business Intelligence
-7.  Consultoria Estratégica
-8.  Gestão de Equipes
+7.  Strategic consulting
+8.  Team management
 9.  SEO (Search Engine Optimization)
-10. Desenvolvimento Mobile
-11. Gestão de Tempo e Produtividade
-12. Languages (English, Spanish and Portuguese) 
+10. Mobile Development
+11. Time Management and Productivity
+12. Languages ​​(English, Spanish and Portuguese)
 
 
 🏆 Experience 🏆
