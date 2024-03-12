@@ -6,7 +6,6 @@ Welcome to my profile! I'm Victor Antoniazi, a full stack developer and research
 🧑‍💼 About Me 🧑‍💼
 As a researcher, I worked writting, collecting and structuring the database of the research project. And as a programmer, I've been working on projects since 2018 (personal ones), and finally in 2023-24 on enterprise ones.  
 
-Provide a brief overview of who you are, your professional background, and any relevant personal information. 
 
 💻 Skills 💻
 
@@ -51,7 +50,6 @@ Outcomes/Achievements: Streamlined internal processes and improved efficiency ac
 
 
 
-Highlight some of your notable projects, including descriptions, technologies used, and any outcomes or achievements. 🛠️
 
 📧 Contact Me 📧
 
